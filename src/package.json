@@ -1,0 +1,12 @@
+{
+  "name": "react-developer-test",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "4.2.2",
+    "react-dom": "latest",
+    "react": "latest"
+  }
+}
