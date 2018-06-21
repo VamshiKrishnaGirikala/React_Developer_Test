@@ -3,9 +3,11 @@
   "description": null,
   "version": "0.0.66",
   "dependencies": {
-    "react-router-dom": "4.2.2",
+    "react": "latest",
     "react-dom": "latest",
-    "react": "latest"
+    "react-redux": "5.0.7",
+    "react-router-dom": "4.2.2",
+    "redux": "4.0.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.0"
